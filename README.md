@@ -1,4 +1,4 @@
-# 🌙 Luma — tu compañera virtual de escritorio
+# 🌙 Luma — tu mascota virtual de escritorio
 
 Una criaturita de pixel art que vive en tu pantalla: camina por la barra de tareas, duerme, juega, te mira el cursor,
 se aburre, te pregunta cosas y, cuando se lo pedís, te ayuda con programación y búsquedas.
@@ -49,5 +49,4 @@ el título de la ventana que tenés abierta).  Si no querés que hable sola: cli
 ## Archivos
 `main.py` arranque · `interfaz.py` ventana, burbuja, chat · `vida.py` comportamiento · `agente.py` prompt y herramientas ·
 `herramientas.py` permisos · `memoria.py` SQLite + embeddings · `llm.py` Ollama · `sprites.py` pixel art
-# Luma
 # Luma
