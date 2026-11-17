@@ -1,0 +1,17 @@
+{
+  "nombre": "Luma",
+  "usuario": "",
+  "modelo": "qwen2.5:7b",
+  "modelo_codigo": "",
+  "modelo_embeddings": "nomic-embed-text",
+  "ollama_url": "http://localhost:11434",
+  "contexto_tokens": 4096,
+  "escala_sprite": 5,
+  "velocidad": 70,
+  "silencio": false,
+  "minutos_entre_comentarios": 12,
+  "curiosear_ventanas": true,
+  "minutos_para_dormir_ausente": 10,
+  "carpetas_lectura": [],
+  "carpetas_escritura": []
+}

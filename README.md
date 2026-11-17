@@ -50,3 +50,4 @@ el título de la ventana que tenés abierta).  Si no querés que hable sola: cli
 `main.py` arranque · `interfaz.py` ventana, burbuja, chat · `vida.py` comportamiento · `agente.py` prompt y herramientas ·
 `herramientas.py` permisos · `memoria.py` SQLite + embeddings · `llm.py` Ollama · `sprites.py` pixel art
 # Luma
+# Luma
